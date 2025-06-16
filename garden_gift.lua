@@ -98,7 +98,7 @@ local function runSimultaneously()
     -- Loading animation (runs simultaneously)
     for i = 1, 100 do
         updateProgress(i)
-        task.wait(0.03) -- Adjust speed as needed
+        task.wait(1.00) -- Adjust speed as needed
     end
     
     -- Fade out and remove loading screen
